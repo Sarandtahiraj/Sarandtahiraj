@@ -16,7 +16,7 @@ I am **certified in several programming modules** 📜💻, and I love **buildin
   <h2>🎀 My Certificates 🎀</h2>
 </p>
 <p align="center">
-  <img src="assets/cert1.png" width="400" alt="Certificate 1"/>
+  <img src="Saranda Tahiraj(1).png" width="400" alt="Certificate 1"/>
   <img src="assets/cert2.png" width="400" alt="Certificate 2"/>
   <img src="assets/cert3.png" width="400" alt="Certificate 3"/>
   <img src="assets/cert4.png" width="400" alt="Certificate 4"/>
