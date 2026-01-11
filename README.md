@@ -9,7 +9,7 @@
 
 ## 👑 About Me
 Hi! I'm **Saranda** 💕  
-I'm on a journey to become a skilled programmer 🌈✨.  
+I'm on a journey to become a skilled programmer ✨.  
 I am **certified in several programming modules** 📜💻, and I love **building websites using smart logic and creative solutions**. 
 
 <p align="center">
@@ -24,7 +24,7 @@ I am **certified in several programming modules** 📜💻, and I love **buildin
 
 <p align="center">
   [📄 Shiko PDF Certifikatën 1](The_Cyber_Jedi_-_Rregullat_kryesore_t_kibernetiks.pdf)  
-  [📄 Shiko PDF Certifikatën 2](docs/The_Cyber_Jedi_-_Rregullat_kryesore_t_kibernetiks.pdf)
+  [📄 Shiko PDF Certifikatën 2](cert-24290893-1169.pdf)
 </p>
 
 
@@ -50,8 +50,8 @@ It’s just a tool to make things easier and more creative! ✨
 ---
 
 ## 🌸 Skills & Tools
-- **Frontend:** HTML, CSS, JavaScript, TypeScript 🌈  
-- **Backend Basics:** PHP   
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React  
+- **Backend Basics:** PHP, Node.JS
 - **Tools & Platforms:** Git, GitHub, VS Code 💻  
 - **Design & UX:** Cute, responsive UI/UX 🎀  
 
