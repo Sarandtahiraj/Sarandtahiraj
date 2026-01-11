@@ -23,7 +23,7 @@ I am **certified in several programming modules** 📜💻, and I love **buildin
 </p>
 
 <p align="center">
-  [📄 Shiko PDF Certifikatën 1](docs/cert-24290893-1169.pdf)  
+  [📄 Shiko PDF Certifikatën 1](The_Cyber_Jedi_-_Rregullat_kryesore_t_kibernetiks.pdf)  
   [📄 Shiko PDF Certifikatën 2](docs/The_Cyber_Jedi_-_Rregullat_kryesore_t_kibernetiks.pdf)
 </p>
 
