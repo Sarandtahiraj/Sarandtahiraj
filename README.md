@@ -17,9 +17,9 @@ I am **certified in several programming modules** 📜💻, and I love **buildin
 </p>
 <p align="center">
   <img src="Saranda Tahiraj(1).png" width="400" alt="Certificate 1"/>
-  <img src="assets/cert2.png" width="400" alt="Certificate 2"/>
-  <img src="assets/cert3.png" width="400" alt="Certificate 3"/>
-  <img src="assets/cert4.png" width="400" alt="Certificate 4"/>
+  <img src="Saranda Tahiraj(3).png" width="400" alt="Certificate 2"/>
+  <img src="Saranda Tahiraj(4).png" width="400" alt="Certificate 3"/>
+  <img src="Saranda Tahiraj(5).png" width="400" alt="Certificate 4"/>
 </p>
 
 <p align="center">
