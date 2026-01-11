@@ -15,18 +15,16 @@ I am **certified in several programming modules** 📜💻, and I love **buildin
 <p align="center">
   <h2>🎀 My Certificates 🎀</h2>
 </p>
-
-
 <p align="center">
-  <img src="https://github.com/user-attachments/sa" width="400"/>
-  <img src="https://github.com/user-attachments/assets/e6abbf04-7455-4371-83e9-71e17fd4ff98" width="400"/>
-  <img src="https://github.com/user-attachments/assets/0cf8af74-196b-4e5d-9af4-41685587c7a2" width="400"/>
-  <img src="https://github.com/user-attachments/assets/9201973a-c669-4a53-9afb-6da288e280da" width="400"/>
+  <img src="assets/cert1.png" width="400" alt="Certificate 1"/>
+  <img src="assets/cert2.png" width="400" alt="Certificate 2"/>
+  <img src="assets/cert3.png" width="400" alt="Certificate 3"/>
+  <img src="assets/cert4.png" width="400" alt="Certificate 4"/>
 </p>
 
 <p align="center">
-  [📄 Shiko PDF tim](docs/cert-24290893-1169.pdf)  
-  [📄 Shiko PDF tim](docs/The_Cyber_Jedi_-_Rregullat_kryesore_t_kibernetiks.pdf)
+  [📄 Shiko PDF Certifikatën 1](docs/cert-24290893-1169.pdf)  
+  [📄 Shiko PDF Certifikatën 2](docs/The_Cyber_Jedi_-_Rregullat_kryesore_t_kibernetiks.pdf)
 </p>
 
 
