@@ -18,7 +18,7 @@ I am **certified in several programming modules** 📜💻, and I love **buildin
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a73ead9f-a154-4c66-acc5-37d29b5a5d0b" width="400"/>
+  <img src="https://github.com/user-attachments/sa" width="400"/>
   <img src="https://github.com/user-attachments/assets/e6abbf04-7455-4371-83e9-71e17fd4ff98" width="400"/>
   <img src="https://github.com/user-attachments/assets/0cf8af74-196b-4e5d-9af4-41685587c7a2" width="400"/>
   <img src="https://github.com/user-attachments/assets/9201973a-c669-4a53-9afb-6da288e280da" width="400"/>
